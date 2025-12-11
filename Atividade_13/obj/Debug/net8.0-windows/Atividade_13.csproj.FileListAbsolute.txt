@@ -1,0 +1,7 @@
+C:\workspace\ListaProgramacaoCsharp\Atividade_13\obj\Debug\net8.0-windows\Atividade_13.Form1.resources
+C:\workspace\ListaProgramacaoCsharp\Atividade_13\obj\Debug\net8.0-windows\Atividade_13.csproj.GenerateResource.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade_13\obj\Debug\net8.0-windows\Atividade_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ListaProgramacaoCsharp\Atividade_13\obj\Debug\net8.0-windows\Atividade_13.AssemblyInfoInputs.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade_13\obj\Debug\net8.0-windows\Atividade_13.AssemblyInfo.cs
+C:\workspace\ListaProgramacaoCsharp\Atividade_13\obj\Debug\net8.0-windows\Atividade_13.csproj.CoreCompileInputs.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade_13\obj\Debug\net8.0-windows\Program.resources

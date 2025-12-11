@@ -1,0 +1,16 @@
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\bin\Debug\net8.0-windows\WinFormsApp1_Atividade 10.exe
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\bin\Debug\net8.0-windows\WinFormsApp1_Atividade 10.deps.json
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\bin\Debug\net8.0-windows\WinFormsApp1_Atividade 10.runtimeconfig.json
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\bin\Debug\net8.0-windows\WinFormsApp1_Atividade 10.dll
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\bin\Debug\net8.0-windows\WinFormsApp1_Atividade 10.pdb
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade_10.Form1.resources
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.csproj.GenerateResource.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.AssemblyInfoInputs.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.AssemblyInfo.cs
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.csproj.CoreCompileInputs.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.dll
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\refint\WinFormsApp1_Atividade 10.dll
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.pdb
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\WinFormsApp1_Atividade 10.genruntimeconfig.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1_Atividade 10\obj\Debug\net8.0-windows\ref\WinFormsApp1_Atividade 10.dll

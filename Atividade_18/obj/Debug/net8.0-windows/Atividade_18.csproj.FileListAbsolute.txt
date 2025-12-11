@@ -1,0 +1,16 @@
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\bin\Debug\net8.0-windows\Atividade_18.exe
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\bin\Debug\net8.0-windows\Atividade_18.deps.json
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\bin\Debug\net8.0-windows\Atividade_18.runtimeconfig.json
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\bin\Debug\net8.0-windows\Atividade_18.dll
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\bin\Debug\net8.0-windows\Atividade_18.pdb
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.Form1.resources
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.csproj.GenerateResource.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.AssemblyInfoInputs.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.AssemblyInfo.cs
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.csproj.CoreCompileInputs.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.dll
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\refint\Atividade_18.dll
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.pdb
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\Atividade_18.genruntimeconfig.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade_18\obj\Debug\net8.0-windows\ref\Atividade_18.dll

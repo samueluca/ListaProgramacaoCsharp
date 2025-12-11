@@ -1,0 +1,16 @@
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\bin\Debug\net8.0-windows\WinFormsApp1 Atividade_9.exe
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\bin\Debug\net8.0-windows\WinFormsApp1 Atividade_9.deps.json
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\bin\Debug\net8.0-windows\WinFormsApp1 Atividade_9.runtimeconfig.json
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\bin\Debug\net8.0-windows\WinFormsApp1 Atividade_9.dll
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\bin\Debug\net8.0-windows\WinFormsApp1 Atividade_9.pdb
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1_Atividade_9.Form1.resources
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.csproj.GenerateResource.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.AssemblyInfoInputs.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.AssemblyInfo.cs
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.csproj.CoreCompileInputs.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.dll
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\refint\WinFormsApp1 Atividade_9.dll
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.pdb
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\WinFormsApp1 Atividade_9.genruntimeconfig.cache
+C:\workspace\ListaProgramacaoCsharp\WinFormsApp1 Atividade_9\obj\Debug\net8.0-windows\ref\WinFormsApp1 Atividade_9.dll

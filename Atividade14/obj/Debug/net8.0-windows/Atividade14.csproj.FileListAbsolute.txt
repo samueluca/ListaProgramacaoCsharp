@@ -1,0 +1,16 @@
+C:\workspace\ListaProgramacaoCsharp\Atividade14\bin\Debug\net8.0-windows\Atividade14.exe
+C:\workspace\ListaProgramacaoCsharp\Atividade14\bin\Debug\net8.0-windows\Atividade14.deps.json
+C:\workspace\ListaProgramacaoCsharp\Atividade14\bin\Debug\net8.0-windows\Atividade14.runtimeconfig.json
+C:\workspace\ListaProgramacaoCsharp\Atividade14\bin\Debug\net8.0-windows\Atividade14.dll
+C:\workspace\ListaProgramacaoCsharp\Atividade14\bin\Debug\net8.0-windows\Atividade14.pdb
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.Form1.resources
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.csproj.GenerateResource.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.AssemblyInfoInputs.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.AssemblyInfo.cs
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.csproj.CoreCompileInputs.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.dll
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\refint\Atividade14.dll
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.pdb
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\Atividade14.genruntimeconfig.cache
+C:\workspace\ListaProgramacaoCsharp\Atividade14\obj\Debug\net8.0-windows\ref\Atividade14.dll
